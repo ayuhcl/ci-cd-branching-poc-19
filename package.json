@@ -1,5 +1,5 @@
 {
-  "name": "cicd-branching-poc",
+  "name": "cicd-branching-poc-19",
   "version": "1.0.0",
   "description": "CI/CD workflow PoC with GitHub Actions",
   "main": "src/app.js",
